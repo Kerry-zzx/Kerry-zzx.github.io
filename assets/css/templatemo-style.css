@@ -126,7 +126,8 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #8c363e;
+    color: #18bbd8;
+    /* color: #8c363e; */
 }
 
 /* Sidebar Menu */
