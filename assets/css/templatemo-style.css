@@ -179,7 +179,7 @@ html {
 
 .menu .social-network ul li a:hover {
     background-color: #fff;
-    color: #e24a4a;
+    color: #ff0000;
 }
 
 .menu .copyright-text {
@@ -224,7 +224,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #e24a4a;
+  background-color: #ff0000;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -256,7 +256,7 @@ html {
     position: fixed;
     top: 0;
     left: 0;
-    color: #e24a4a;
+    color: #ff0000;
     background-color: #fff;
     width: 60px;
     height: 60px;
@@ -272,7 +272,7 @@ html {
 #menu-close {
     cursor: pointer;
     text-align: right;
-    color: #e24a4a;
+    color: #ff0000;
     background-color: #fff;
     width: 100%;
     height: 60px;
@@ -309,7 +309,7 @@ html {
 .section-heading .line-dec {
     width: 60px;
     height: 3px;
-    background-color: #e24a4a;
+    background-color: #ff0000;
     margin: 10px auto;
 }
 
@@ -327,7 +327,7 @@ html {
     display: inline-block;
     padding: 12px 20px;
     background-color: #fff;
-    color: #e24a4a;
+    color: #ff0000;
     font-size: 13px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -336,7 +336,7 @@ html {
 }
 
 .white-button a:hover {
-    background-color: #e24a4a;
+    background-color: #ff0000;
     color: #fff;
 }
 
@@ -344,7 +344,7 @@ button {
     display: inline-block;
     padding: 10px 20px;
     background-color: #fff;
-    color: #e24a4a;
+    color: #ff0000;
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -357,7 +357,7 @@ button {
 
 button:hover {
     outline: none;
-    background-color: #e24a4a;
+    background-color: #ff0000;
     color: #fff;
 }
 
